@@ -18,7 +18,7 @@ class Ball : public IDrawable
 	float xSpeed = 4.0f;
 
 	float left() { return x - r; }
-	float right() { return x - r; }
+	float right() { return x + r; }
 	float top() { return y - r; }
 	float bottom() { return y + r; }
 
