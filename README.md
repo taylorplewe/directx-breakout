@@ -1,2 +1,2 @@
 # DirectX Breakout
-Breakout game I made in DirectX (Direct2D)
+Breakout game I made with DirectX (Direct2D)
